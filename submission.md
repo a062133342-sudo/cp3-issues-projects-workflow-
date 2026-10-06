@@ -22,7 +22,7 @@ Answer: this tell other the topic
 
 What is the purpose of acceptance criteria in an Issue?
 
-Answer: alow other to share idea in issue
+Answer: it allow other to share idea in issue
 
 ## Question 3
 
