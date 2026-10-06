@@ -34,4 +34,4 @@ Answer: good for work
 
 What should you self-check in the Pull Request before merging and moving the work from Review to Done, and why?
 
-Answer: 1
+Answer: it help us check our work to make sure there is no mistake.
